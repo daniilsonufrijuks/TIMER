@@ -12,7 +12,7 @@ def start():
     sec = 0
     while True:
         if mins == 0 and sec == 0:
-            labeltime.config(text = "Time is up!")
+            #labeltime.config(text = "Time is up!")
             sound()
             break
         elif sec == 0:
