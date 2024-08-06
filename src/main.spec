@@ -8,7 +8,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[('../sound/alarm.mp3', 'sound')],
+    datas=[],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
